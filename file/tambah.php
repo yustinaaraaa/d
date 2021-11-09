@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>halaman file index.php</title>
+	<title>halaman tambah</title>
 </head>
 <body>
 
