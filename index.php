@@ -5,5 +5,6 @@
 </head>
 <body>
 <div>Halaman div</div>
+<div>Halaman div kedua</div>
 </body>
 </html>
